@@ -1,0 +1,88 @@
+Brand,Model,RAM_GB,Storage_GB,Battery_mAh,Camera_MP,Price,Segment,Image
+Apple,iPhone 13,4,128,3240,12,59999,Premium,images/apple.png
+Apple,iPhone 14,6,128,3279,12,69999,Premium,images/apple.png
+Apple,iPhone 15,6,256,3349,48,79999,Premium,images/apple.png
+Apple,iPhone 12,4,64,2815,12,45999,Premium,images/apple.png
+Apple,iPhone 12 Pro,6,128,2815,12,65999,Premium,images/apple.png
+Apple,iPhone 13 Mini,4,128,2438,12,51999,Premium,images/apple.png
+Apple,iPhone 14 Plus,6,128,4323,12,74999,Premium,images/apple.png
+Apple,iPhone 15 Pro,8,256,3274,48,119999,Premium,images/apple.png
+,,,,,,,,
+,,,,,,,,
+Samsung,Galaxy S21 FE,8,128,4500,12,49999,Premium,images/samsung.png
+Samsung,Galaxy S22,8,256,3700,50,64999,Premium,images/samsung.png
+Samsung,Galaxy A54,8,128,5000,50,38999,Midrange,images/samsung.png
+Samsung,Galaxy S23,8,128,3900,50,69999,Premium,images/samsung.png
+Samsung,Galaxy S23 Ultra,12,256,5000,200,124999,Premium,images/samsung.png
+Samsung,Galaxy A34,8,128,5000,48,30999,Midrange,images/samsung.png
+Samsung,Galaxy A54,8,256,5000,50,38999,Midrange,images/samsung.png
+Samsung,Galaxy M34,6,128,6000,50,18999,Budget,images/samsung.png
+Samsung,Galaxy M34,6,128,6000,50,18999,Budget,images/samsung.png
+,,,,,,,,
+,,,,,,,,
+OnePlus,OnePlus Nord CE 3,8,128,5000,50,26999,Midrange,images/oneplus.png
+OnePlus,OnePlus 11R,8,256,5000,50,39999,Premium,images/oneplus.png
+OnePlus,OnePlus 12,12,256,5400,50,64999,Premium,images/oneplus.png
+OnePlus,Nord CE 3,8,128,5000,50,26999,Midrange,images/oneplus.png
+OnePlus,Nord CE 3 Lite,8,128,5000,108,19999,Budget,images/oneplus.png
+OnePlus,OnePlus 11R,8,256,5000,50,39999,Premium,images/oneplus.png
+OnePlus,OnePlus Open,16,512,4800,48,139999,Premium,images/oneplus.png
+OnePlus,Nord 3,16,256,5000,50,37999,Premium,images/oneplus.png
+,,,,,,,,
+,,,,,,,,
+Xiaomi,Redmi Note 12,6,128,5000,50,15999,Budget,images/xiaomi.png
+Xiaomi,Redmi Note 13 Pro,8,256,5100,200,27999,Midrange,images/xiaomi.png
+Xiaomi,Xiaomi 12 Pro,12,256,4600,50,54999,Premium,images/xiaomi.png
+Xiaomi,Redmi Note 12,6,128,5000,50,14999,Budget,images/xiaomi.png
+Xiaomi,Redmi Note 12 Pro,8,256,5000,50,23999,Midrange,images/xiaomi.png
+Xiaomi,Xiaomi 13 Pro,12,256,4820,50,79999,Premium,images/xiaomi.png
+Xiaomi,Redmi K50i,8,256,5080,64,25999,Midrange,images/xiaomi.png
+Xiaomi,Poco X5 Pro,8,256,5000,108,22999,Midrange,images/xiaomi.png
+,,,,,,,,
+,,,,,,,,
+Vivo,Vivo V27 Pro,8,256,4600,50,37999,Premium,images/vivo.png
+Vivo,Vivo V25,8,128,4500,64,28999,Midrange,images/vivo.png
+Vivo,Vivo V29,8,256,4600,50,32999,Premium,images/vivo.png
+Vivo,Vivo V27,8,128,4600,50,29999,Premium,images/vivo.png
+Vivo,Vivo T1,6,128,5000,50,16999,Budget,images/vivo.png
+Vivo,Vivo Y100,8,128,4500,64,24999,Midrange,images/vivo.png
+Vivo,Vivo X90,12,256,4810,50,59999,Premium,images/vivo.png
+,,,,,,,,
+,,,,,,,,
+Realme,Realme Narzo 60,6,128,5000,64,17999,Budget,images/realme.png
+Realme,Realme GT Neo 3,8,256,5000,50,36999,Premium,images/realme.png
+Realme,Narzo 60,6,128,5000,64,17999,Budget,images/realme.png
+Realme,Realme 11 Pro,8,256,5000,200,27999,Midrange,images/realme.png
+Realme,GT 2 Pro,12,256,5000,50,49999,Premium,images/realme.png
+Realme,Narzo N55,6,128,5000,64,12999,Budget,images/realme.png
+Realme,Realme C55,8,128,5000,64,15999,Budget,images/realme.png
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Google,Pixel 6a,6,128,4410,12,43999,Premium,images/google.png
+Google,Pixel 7,8,128,4355,50,59999,Premium,images/google.png
+Google,Pixel 6,8,128,4614,50,44999,Premium,images/google.png
+Google,Pixel 7,8,128,4355,50,59999,Premium,images/google.png
+Google,Pixel 7 Pro,12,256,5000,50,84999,Premium,images/google.png
+Google,Pixel 6a,6,128,4410,12,29999,Midrange,images/google.png
+Google,Pixel 8,8,256,4575,50,75999,Premium,images/google.png
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Motorola,Moto G73,8,128,5000,50,18999,Budget,images/motorola.png
+Motorola,Edge 40,8,256,4400,50,29999,Midrange,images/motorola.png
+Motorola,Moto G73,8,128,5000,50,18999,Budget,images/motorola.png
+Motorola,Moto Edge 40,8,256,4400,50,29999,Premium,images/motorola.png
+Motorola,Moto G54,8,128,6000,50,15999,Budget,images/motorola.png
+Motorola,Moto Edge 30,8,128,4020,50,24999,Midrange,images/motorola.png
+Motorola,Moto G84,12,256,5000,50,19999,Budget,images/motorola.png
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Oppo,Oppo Reno 10,8,256,5000,64,32999,Midrange,images/oppo.png
+Oppo,Oppo Find X5,12,256,4800,50,54999,Premium,images/oppo.png
+Oppo,Oppo F23,8,256,5000,64,24999,Midrange,images/oppo.png
+Oppo,Oppo Reno 11,8,256,5000,50,34999,Premium,images/oppo.png
+Oppo,Oppo A78,8,128,5000,50,18999,Budget,images/oppo.png
+Oppo,Oppo Find X6,12,256,4800,50,69999,Premium,images/oppo.png
+Oppo,Oppo Reno 8T,8,128,5000,108,29999,Premium,images/oppo.png
