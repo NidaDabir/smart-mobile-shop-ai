@@ -1,51 +1,37 @@
 import streamlit as st
 
+users = {
 
-def login():
+"user":"user",
 
-    if "role" not in st.session_state:
+"admin":"admin"
 
-        st.session_state.role = None
+}
 
+def login_user(username,password):
 
-    if st.session_state.role is None:
+    if username in users and users[username]==password:
 
-        st.title("Login")
+        st.session_state.logged_in=True
 
-        user = st.text_input("Username")
+        st.session_state.user=username
 
-        password = st.text_input("Password", type="password")
+        return True
 
+    return False
 
-        if st.button("Login"):
+def logout_user():
 
-            if user == "admin" and password == "admin":
+    st.session_state.logged_in=False
 
-                st.session_state.role = "admin"
+    st.session_state.user=""
 
-                st.rerun()
+def is_logged_in():
 
-            elif user == "user" and password == "user":
-
-                st.session_state.role = "user"
-
-                st.rerun()
-
-            else:
-
-                st.error("Wrong login")
-
-        st.stop()
+    return st.session_state.get("logged_in",False)
 
 
 
-def logout():
-
-    if st.sidebar.button("Logout"):
-
-        st.session_state.role = None
-
-        st.rerun()
 
 
 
